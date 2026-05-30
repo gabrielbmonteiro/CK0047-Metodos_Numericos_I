@@ -1,6 +1,6 @@
 # CK0047 - Métodos Numéricos I 🧮
 
-Este repositório centraliza os algoritmos de aproximação numérica e modelagem computacional desenvolvidos para as avaliações práticas da disciplina de **Métodos Numéricos I** do Departamento de Computação da Universidade Federal do Ceará (UFC), sob a orientação do Prof. Joaquim Bento. 
+Este repositório centraliza os algoritmos de aproximação numérica e modelagem computacional desenvolvidos para as avaliações práticas da disciplina de **Métodos Numéricos I** da Universidade Federal do Ceará (UFC), sob a orientação do Prof. Joaquim Bento. 
 
 O projeto foi construído utilizando soluções híbridas em **C** (foco em performance e controle de memória estruturada) e **Python** (foco em análise ágil de convergência e visualização de dados).
 
