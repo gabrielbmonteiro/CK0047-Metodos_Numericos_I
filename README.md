@@ -21,7 +21,10 @@ Focado no cálculo de uma matriz de deslocamentos múltiplos $\{d\}_{n \times 1}
 * **Método de Eliminação de Gauss Normal:** Algoritmo direto clássico com etapas de pivoteamento e triangulação superior seguidas de retrosubstituição.
 * **Método de Gauss-Jordan:** Extensão que transforma a matriz de coeficientes $C$ diretamente em uma matriz identidade através de eliminação completa acima e abaixo da diagonal principal, obtendo o vetor resposta diretamente e calculando a inversa da matriz ($A^{-1}$).
 * **Calibração e Quadro de Respostas:** Suite de testes internos utilizando matrizes de teste simétricas e diagonalmente dominantes:
-    $$[C] = \begin{bmatrix} 10 & 1 & 1 \\ 1 & 10 & 1 \\ 1 & 1 & 10 \end{bmatrix}, \quad \{v\} = \begin{bmatrix} 12 \\ 12 \\ 12 \end{bmatrix}$$
+
+$$
+[C] = \begin{bmatrix} 10 & 1 & 1 \\\\ 1 & 10 & 1 \\\\ 1 & 1 & 10 \end{bmatrix}, \quad \{v\} = \begin{bmatrix} 12 \\\\ 12 \\\\ 12 \end{bmatrix}
+$$
 
 ---
 
